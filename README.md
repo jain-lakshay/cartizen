@@ -63,4 +63,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Feedback
 
-Share your feedback to help us continuously improve!Thank you UpSkill Mafia Team 🙏 
+Share your feedback to help us continuously improve!
